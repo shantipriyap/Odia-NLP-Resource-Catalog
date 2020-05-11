@@ -1,1 +1,1 @@
-# Odia-NLP-Resource-Catalog
+# A Catalog for Odia Language NLP Resources
