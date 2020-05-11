@@ -13,5 +13,5 @@ The purpose of this catalog is to provide a one-stop solution for the researcher
 
 ### Language Model
 
-* <a href="https://github.com/goru001/nlp-for-odia"> Pretrained Odia Language Model</a> 
+* <a href="https://github.com/goru001/nlp-for-odia">Language Model</a> : Pretrained Odia Language Model. 
 
