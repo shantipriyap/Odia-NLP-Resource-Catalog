@@ -5,3 +5,6 @@ The purpose of this catalog is to provide a one-stop solution for the researcher
 
 ### Parallel Translation Corpus
 * <a href="https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879">OdiEnCorp 1.0</a>
+
+### Monolingual Corpus
+* <a href="https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879">OdiEnCorp 1.0</a>
