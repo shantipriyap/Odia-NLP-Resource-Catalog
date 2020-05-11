@@ -1,3 +1,3 @@
 # List of contributors
-* Shantipriya Parida (Idiap Research Institute, Switzerland)
-* Gaurav Arora
+*  <a href="https://www.idiap.ch/~sparida/">Shantipriya Parida</a> 
+* <a href="https://goru001.github.io/">Gaurav Arora</a>  
