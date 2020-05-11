@@ -15,8 +15,8 @@ The purpose of this catalog is to provide a one-stop solution for the researcher
 * <a href="https://github.com/goru001/nlp-for-odia">Language Model</a> : Pretrained Odia Language Model. 
 
 ### Word Embedding
-* <a href="https://fasttext.cc/docs/en/crawl-vectors.html">FastText</a> : Pretrained Word vector (CommonCrawl + Wikipedia). Trained on Common Crawl and Wikipedia using fastText. Select the language "oriya" from the model list.
-* <a href="https://fasttext.cc/docs/en/pretrained-vectors.html">FastText</a> : Pretrained Word vector (Wikipedia). Trained on Wikipedia using fastText. Select the language "oriya" from the model list.
+* <a href="https://fasttext.cc/docs/en/crawl-vectors.html">FastText (CommonCrawl + Wikipedia)</a> : Pretrained Word vector (CommonCrawl + Wikipedia). Trained on Common Crawl and Wikipedia using fastText. Select the language "oriya" from the model list.
+* <a href="https://fasttext.cc/docs/en/pretrained-vectors.html">FastText (Wikipedia)</a> : Pretrained Word vector (Wikipedia). Trained on Wikipedia using fastText. Select the language "oriya" from the model list.
 
 
 ## Text Classification
