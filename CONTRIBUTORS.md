@@ -1,2 +1,2 @@
 # List of contributors
-* Shantipriya Parida
+* Shantipriya Parida (Idiap Research Institute, Switzerland)
