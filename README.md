@@ -4,4 +4,4 @@ The purpose of this catalog is to provide a one-stop solution for the researcher
 ## Text Corpora
 
 ### Parallel Translation Corpus
-* (OdiEnCorp 1.0)[https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879]
+* <a href="https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879">OdiEnCorp 1.0</a>
