@@ -1,5 +1,5 @@
 # A Catalog for Odia Language NLP Resources
-The purpose of this catalog is to provide a one-stop solution for the researchers looking for Odia NLP resources. Anyone interested can contribute to Odia NLP resource useful for researchers. All contributors are listed on the CONTRIBUTOR list.  
+The purpose of this catalog is to provide a one-stop solution for the researchers looking for Odia NLP resources. This is a collective effort for the Odia NLP research community. The contribute information will help Odia NLP researchers. All contributors are listed on the <a href="https://github.com/shantipriyap/Odia-NLP-Resource-Catalog/blob/master/CONTRIBUTORS.md">CONTRIBUTOR list</a>. 
 
 ## Text Corpora
 
