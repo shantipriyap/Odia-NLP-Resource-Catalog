@@ -27,4 +27,6 @@ The purpose of this catalog is to provide a one-stop solution for the researcher
 * <a href="https://github.com/anoopkunchukuttan/indic_nlp_library">Indic NLP Library</a> : It is a python based NLP library for Indian language text processing including Odia.  
 
 
+## Other Indian language NLP Resources
+A comprehensive list of Indian language NLP resources can be found in the <a href="https://github.com/indicnlpweb/indicnlp_catalog">IndicNLP Catalog</a> 
 
