@@ -20,7 +20,10 @@ The purpose of this catalog is to provide a one-stop solution for the researcher
 
 
 ## Text Classification
+* <a href="https://www.kaggle.com/disisbig/odia-news-dataset">Odia News Article Classification</a> : This dataset contains approxmately 19,000 news article headlines collected from Odia news websites. The labeled dataset is splitted into training and testset suitable for supervised text classification. 
 
-* <a href="https://www.kaggle.com/disisbig/odia-news-dataset">Odia News Article Classification</a> : This dataset contains approxmately 19,000 news article headlines collected from Odia news websites. The labeled dataset is splitted into training and testset suitable for supervised text classification.   
+## NLP Libraries
+* <a href="https://github.com/anoopkunchukuttan/indic_nlp_library">Indic NLP Library</a> : It is a python based NLP library for Indian language text processing including Odia.  
+
 
 
