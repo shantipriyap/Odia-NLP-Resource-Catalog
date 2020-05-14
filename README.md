@@ -36,7 +36,7 @@ The purpose of this catalog is to provide a one-stop solution for the researcher
 
 ## Libraries
 * <a href="https://github.com/anoopkunchukuttan/indic_nlp_library">Indic NLP Library</a> : It is a python based NLP library for Indian language text processing including Odia.
-* <a href="https://indic-ocr.github.io/">Indic-OCR</a> : OCR tools for Indic script including Odia. Also, supports Ol Chiki (Santali). 
+* <a href="https://indic-ocr.github.io/">Indic-OCR</a> : OCR tools for Indic scripts including Odia. Also, supports Ol Chiki (Santali). 
 
 
 ## Other Indian language NLP Resources
