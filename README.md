@@ -9,6 +9,7 @@ The purpose of this catalog is to provide a one-stop solution for the researcher
 * <a href="http://data.statmt.org/pmindia/">PMIndia</a> : Parallel corpus for En-Indian languages mined from Mann ki Baat speeches of the PM of India. It contains 38K English-Odia parallel sentences.<a href="https://arxiv.org/abs/2001.09907">Paper</a> 
 
 ### Monolingual Corpus
+* <a href="https://www.lancaster.ac.uk/fass/projects/corpus/emille/">EMILLE Corpus</a> : It contains fourteen monolingual corpora for Indian languages including Odia.<a href="https://www.lancaster.ac.uk/fass/projects/corpus/emille/MANUAL.htm">Manual</a> 
 * <a href="https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879">OdiEnCorp 1.0</a> : This dataset contains 221K Odia sentences.<a href="https://link.springer.com/chapter/10.1007/978-981-13-9282-5_47">Paper</a> 
 * <a href="https://github.com/ai4bharat-indicnlp/indicnlp_corpus">AI4Bharat-IndicNLP Corpus</a> : The text corpus not available now (will be available later). It used 3.5M Odia sentences to build the embedding. Vocabulary frequency files are available.<a href="https://github.com/ai4bharat-indicnlp/indicnlp_corpus/blob/master/ai4bharat-indicnlp-corpus-2020.pdf">Paper</a>
 
