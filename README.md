@@ -1,6 +1,9 @@
 # A Catalog for Odia Language NLP Resources
 The purpose of this catalog is to provide a one-stop solution for the researchers looking for Odia NLP resources. This is a collective effort and any contribution to enriching Odia NLP resource are welcome. All contributors are listed on the <a href="https://github.com/shantipriyap/Odia-NLP-Resource-Catalog/blob/master/CONTRIBUTORS.md">CONTRIBUTOR</a> list. 
 
+* TOC
+{:toc}
+
 ## Text Corpora
 
 ### Parallel Translation Corpus
