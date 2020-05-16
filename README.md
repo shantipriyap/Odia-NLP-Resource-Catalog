@@ -43,6 +43,9 @@ The purpose of this catalog is to provide a one-stop solution for the researcher
 * <a href="https://github.com/anoopkunchukuttan/indic_nlp_library">Indic NLP Library</a> : It is a python based NLP library for Indian language text processing including Odia.
 * <a href="https://indic-ocr.github.io/">Indic-OCR</a> : OCR tools for Indic scripts including Odia. Also, supports Ol Chiki (Santali). 
 
+## Speech Corpora
+* <a href="https://www.iitm.ac.in/donlab/tts/index.php">IIT Madras IndicTTS</a> : The Indic TTS project develops test-to-speech (TTS) syntheis system for Indian languages including Odia. The database contains spoken sentences/uttererances.
+
 
 ## Other Indian language NLP Resources
 A comprehensive list of Indian language NLP resources can be found in the <a href="https://github.com/indicnlpweb/indicnlp_catalog">IndicNLP Catalog</a> 
