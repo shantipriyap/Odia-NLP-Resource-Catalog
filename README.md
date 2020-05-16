@@ -45,6 +45,7 @@ The purpose of this catalog is to provide a one-stop solution for the researcher
 
 ## Speech Corpora
 * <a href="https://www.iitm.ac.in/donlab/tts/index.php">IIT Madras IndicTTS</a> : The Indic TTS project develops the text-to-speech (TTS) synthesis system for Indian languages including Odia. The database contains spoken sentences/utterances recorded by both Male and Female native speakers.
+* <a href="http://www.ldcil.org/resourcesSpeechCorpOriya.aspx">LDC-IL</a> :  It includes Odia annotated speech corpora which has voices of 450 different native speakers.
 
 
 ## Other Indian language NLP Resources
