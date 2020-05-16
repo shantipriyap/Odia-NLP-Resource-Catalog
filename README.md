@@ -44,7 +44,7 @@ The purpose of this catalog is to provide a one-stop solution for the researcher
 * <a href="https://indic-ocr.github.io/">Indic-OCR</a> : OCR tools for Indic scripts including Odia. Also, supports Ol Chiki (Santali). 
 
 ## Speech Corpora
-* <a href="https://www.iitm.ac.in/donlab/tts/index.php">IIT Madras IndicTTS</a> : The Indic TTS project develops test-to-speech (TTS) syntheis system for Indian languages including Odia. The database contains spoken sentences/uttererances.
+* <a href="https://www.iitm.ac.in/donlab/tts/index.php">IIT Madras IndicTTS</a> : The Indic TTS project develops the text-to-speech (TTS) synthesis system for Indian languages including Odia. The database contains spoken sentences/utterances.
 
 
 ## Other Indian language NLP Resources
