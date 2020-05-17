@@ -39,10 +39,10 @@ The purpose of this catalog is to provide a one-stop solution for the researcher
 * <a href="https://www.kaggle.com/disisbig/odia-news-dataset">Odia News Article Classification</a> : This dataset contains approxmately 19,000 news article headlines collected from Odia news websites. The labeled dataset is splitted into training and testset suitable for supervised text classification. 
 * <a href="https://github.com/ai4bharat-indicnlp/indicnlp_corpus">AI4Bharat IndicNLP News Articles</a> : This datasets comprising news articles and their categories for 9 languages including Odia. For Odia language, it has 4 classes (business, crime, entertainment, sports) and each class contains 7.5K news articles. The dataset is balanced across classes. <a href="https://github.com/ai4bharat-indicnlp/indicnlp_corpus/blob/master/ai4bharat-indicnlp-corpus-2020.pdf">Paper</a>
 
-## Libraries
+## Libraries / Tools 
 * <a href="https://github.com/anoopkunchukuttan/indic_nlp_library">Indic NLP Library</a> : It is a python based NLP library for Indian language text processing including Odia.
 * <a href="https://indic-ocr.github.io/">Indic-OCR</a> : OCR tools for Indic scripts including Odia. Also, supports Ol Chiki (Santali).
-* <a href="https://github.com/shantipriyap/odia_nlp">Odia Romanization Script</a> : The perl script "odiaroman" maps the Devnagri(Odia) to Latin.
+* <a href="https://github.com/shantipriyap/odia_nlp">Odia Romanization Script</a> : The perl script "odiaroman" maps the Devnagri (Odia) to Latin.
 
 ## Speech Corpora
 * <a href="https://www.iitm.ac.in/donlab/tts/index.php">IIT Madras IndicTTS</a> : The Indic TTS project develops the text-to-speech (TTS) synthesis system for Indian languages including Odia. The database contains spoken sentences/utterances recorded by both Male and Female native speakers.
