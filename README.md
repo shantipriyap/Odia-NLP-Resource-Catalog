@@ -1,6 +1,9 @@
 # A Catalog for Odia Language NLP Resources
 The purpose of this catalog is to provide a one-stop solution for the researchers looking for Odia NLP resources. This is a collective effort and any contribution to enriching Odia NLP resource are welcome. All contributors are listed on the <a href="https://github.com/shantipriyap/Odia-NLP-Resource-Catalog/blob/master/CONTRIBUTORS.md">CONTRIBUTOR</a> list. 
 
+## NLP Repositories
+* <a href="http://tdil-dc.in/index.php?lang=en">TDIL</a> : It contains language application, resources, and tools for Indian languages including Odia. It contains many language application, resources, and tools for Odia such as Odia terminology application, Odia language search engine, wordnet, English-Odia parallel text corpus, English-Odia machine assisted translation, text-to-speech software, and many more. 
+
 ## Text Corpora
 
 ### Parallel Translation Corpus
