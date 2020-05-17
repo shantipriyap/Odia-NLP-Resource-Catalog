@@ -41,7 +41,8 @@ The purpose of this catalog is to provide a one-stop solution for the researcher
 
 ## Libraries
 * <a href="https://github.com/anoopkunchukuttan/indic_nlp_library">Indic NLP Library</a> : It is a python based NLP library for Indian language text processing including Odia.
-* <a href="https://indic-ocr.github.io/">Indic-OCR</a> : OCR tools for Indic scripts including Odia. Also, supports Ol Chiki (Santali). 
+* <a href="https://indic-ocr.github.io/">Indic-OCR</a> : OCR tools for Indic scripts including Odia. Also, supports Ol Chiki (Santali).
+* <a href="https://github.com/shantipriyap/odia_nlp">Odia Romanization Script</a> : The perl script "odiaroman" maps the Devnagri(Odia) to Latin.
 
 ## Speech Corpora
 * <a href="https://www.iitm.ac.in/donlab/tts/index.php">IIT Madras IndicTTS</a> : The Indic TTS project develops the text-to-speech (TTS) synthesis system for Indian languages including Odia. The database contains spoken sentences/utterances recorded by both Male and Female native speakers.
