@@ -1,25 +1,22 @@
-Table of Contents
-=================
-
-   * [A Catalog for Odia Language NLP Resources](#a-catalog-for-odia-language-nlp-resources)
-      * [NLP Repositories](#nlp-repositories)
-      * [Text Corpora](#text-corpora)
-         * [Parallel Translation Corpus](#parallel-translation-corpus)
-         * [Monolingual Corpus](#monolingual-corpus)
-         * [Lexical Resources](#lexical-resources)
-         * [POS Tagged corpus](#pos-tagged-corpus)
-      * [Models](#models)
-         * [Language Model](#language-model)
-         * [Word Embedding](#word-embedding)
-         * [Morphanalyzers](#morphanalyzers)
-      * [Text Classification](#text-classification)
-      * [Libraries / Tools](#libraries--tools)
-      * [Speech Corpora](#speech-corpora)
-      * [Other Indian language NLP Resources](#other-indian-language-nlp-resources)
-
-
 # A Catalog for Odia Language NLP Resources
 The purpose of this catalog is to provide a one-stop solution for the researchers looking for Odia NLP resources. This is a collective effort and any contribution to enriching Odia NLP resource are welcome. All contributors are listed on the <a href="https://github.com/shantipriyap/Odia-NLP-Resource-Catalog/blob/master/CONTRIBUTORS.md">CONTRIBUTOR</a> list. 
+
+Table of Contents
+=================
+* [NLP Repositories](#nlp-repositories)
+* [Text Corpora](#text-corpora)
+    * [Parallel Translation Corpus](#parallel-translation-corpus)
+    * [Monolingual Corpus](#monolingual-corpus)
+    * [Lexical Resources](#lexical-resources)
+    * [POS Tagged corpus](#pos-tagged-corpus)
+* [Models](#models)
+    * [Language Model](#language-model)
+    * [Word Embedding](#word-embedding)
+    * [Morphanalyzers](#morphanalyzers)
+* [Text Classification](#text-classification)
+* [Libraries / Tools](#libraries--tools)
+* [Speech Corpora](#speech-corpora)
+* [Other Indian language NLP Resources](#other-indian-language-nlp-resources)
 
 ## NLP Repositories
 * <a href="http://tdil-dc.in/index.php?lang=en">TDIL</a> : It contains language application, resources, and tools for Indian languages including Odia. It contains many language applications, resources, and tools for Odia such as Odia terminology application, Odia language search engine, wordnet, English-Odia parallel text corpus, English-Odia machine-assisted translation, text-to-speech software, and many more.  
