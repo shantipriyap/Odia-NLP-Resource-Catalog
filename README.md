@@ -24,6 +24,7 @@ Table of Contents
 ## Text Corpora
 
 ### Parallel Translation Corpus
+* <a href="https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-3211">OdiEnCorp 2.0</a> : This dataset contains 97K English-Odia parallel sentences and serving in <a href="http://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2020/index.html"> WAT2020</a> for Odia-English machine translation task. <a href="https://www.aclweb.org/anthology/2020.wildre-1.3.pdf">Paper</a> 
 * <a href="http://opus.nlpl.eu/">OPUS Corpus</a> : It contains parallel sentences of other languages with Odia. The collection of data are domain-specific and noisy.  
 * <a href="https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879">OdiEnCorp 1.0</a> : This dataset contains 30K English-Odia parallel sentences. <a href="https://link.springer.com/chapter/10.1007/978-981-13-9282-5_47">Paper</a> 
 * <a href="https://github.com/anoopkunchukuttan/indowordnet_parallel">IndoWordnet Parallel Corpus</a> : Parallel corpora mined from IndoWordNet gloss and/or examples for Indian-Indian language corpora (6.3 million segments, 18 languages including Odia). <a href="https://github.com/anoopkunchukuttan/indowordnet_parallel/blob/master/iwn_parallel_2020.pdf">Paper</a>
