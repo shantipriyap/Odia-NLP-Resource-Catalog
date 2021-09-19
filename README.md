@@ -48,7 +48,7 @@ Table of Contents
 
 ### Language Model
 * <a href="https://github.com/goru001/nlp-for-odia">Language Model</a> : Pretrained Odia Language Model. 
-* * <a href="https://colab.research.google.com/gist/satyapb2002/aeb7bf9a686a9c7294ec5725ff53fa49/odiabert_languagemodel.ipynb#scrollTo=xy_H5EjNTdRE">BertOdia</a> : Bert-based Odia Language Model.
+* <a href="https://colab.research.google.com/gist/satyapb2002/aeb7bf9a686a9c7294ec5725ff53fa49/odiabert_languagemodel.ipynb#scrollTo=xy_H5EjNTdRE">BertOdia</a> : Bert-based Odia Language Model.
 
 ### Word Embedding
 * <a href="https://fasttext.cc/docs/en/crawl-vectors.html">FastText (CommonCrawl + Wikipedia)</a> : Pretrained Word vector (CommonCrawl + Wikipedia). Trained on Common Crawl and Wikipedia using fastText. Select the language "oriya" from the model list.
