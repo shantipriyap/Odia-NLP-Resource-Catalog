@@ -8,7 +8,8 @@ Table of Contents
     * [Parallel Translation Corpus](#parallel-translation-corpus)
     * [Monolingual Corpus](#monolingual-corpus)
     * [Lexical Resources](#lexical-resources)
-    * [POS Tagged corpus](#pos-tagged-corpus)
+    * [POS Tagged Corpus](#pos-tagged-corpus)
+    * [Dialect Detection Corpus](#dialect-detection-corpus)
 * [Models](#models)
     * [Language Model](#language-model)
     * [Word Embedding](#word-embedding)
@@ -43,6 +44,9 @@ Table of Contents
 
 ### POS Tagged corpus
 * <a href="http://sanskrit.jnu.ac.in/ilci/index.jsp/">Indian Language Corpora Initiative</a> : It contains parallel annotated corpora in 12 Indian languages including Odia (tourism and health domain). 
+
+### Dialect Detection corpus
+* <a href="https://github.com/shantipriyap/Odia-Santali-Dialect-Detection-Dataset/">Odia-Santali Dialect Detection Corpus</a> : This corpus contains text data of Odia and Santali written in Odia script. 
 
 ## Models
 
