@@ -44,6 +44,9 @@ Table of Contents
 
 ### POS Tagged corpus
 * <a href="http://sanskrit.jnu.ac.in/ilci/index.jsp/">Indian Language Corpora Initiative</a> : It contains parallel annotated corpora in 12 Indian languages including Odia (tourism and health domain). 
+*  <a href="https://github.com/UniversalDependencies/UD_Odia-ODTB/tree/dev">Odia Treebank</a> : The treebank contains approx. 1082 tokens (100 sentences) in Odia.
+<a href="https://lnkd.in/evgspdqm">Paper</a>
+
 
 ### Dialect Detection corpus
 * <a href="https://github.com/shantipriyap/Odia-Santali-Dialect-Detection-Dataset/">Odia-Santali Dialect Detection Corpus</a> : This corpus contains text data of Odia and Santali written in Odia script. 
