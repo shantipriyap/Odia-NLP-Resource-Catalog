@@ -4,5 +4,6 @@
 * <a href="https://goru001.github.io/">Gaurav Arora</a>
 * <a href="http://anoopk.in/">Dr. Anoop Kunchukuttan</a>
 * <a href="https://www.jnu.ac.in/content/girishjha/">Prof. Girish Nath Jha</a> 
+* <a href="https://github.com/prashantmaurya-debug">Prashant Maurya</a>
 
 

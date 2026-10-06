@@ -15,6 +15,7 @@ Table of Contents
     * [Word Embedding](#word-embedding)
     * [Morphanalyzers](#morphanalyzers)
 * [Text Classification](#text-classification)
+* [Evaluation Benchmarks](#evaluation-benchmarks)
 * [Libraries / Tools](#libraries--tools)
 * [Speech Corpora](#speech-corpora)
 * [Other Indian language NLP Resources](#other-indian-language-nlp-resources)
@@ -69,6 +70,9 @@ Table of Contents
 ## Text Classification
 * <a href="https://www.kaggle.com/disisbig/odia-news-dataset">Odia News Article Classification</a> : This dataset contains approxmately 19,000 news article headlines collected from Odia news websites. The labeled dataset is splitted into training and testset suitable for supervised text classification. 
 * <a href="https://github.com/ai4bharat-indicnlp/indicnlp_corpus">AI4Bharat IndicNLP News Articles</a> : This datasets comprising news articles and their categories for 9 languages including Odia. For Odia language, it has 4 classes (business, crime, entertainment, sports) and each class contains 7.5K news articles. The dataset is balanced across classes. <a href="https://github.com/ai4bharat-indicnlp/indicnlp_corpus/blob/master/ai4bharat-indicnlp-corpus-2020.pdf">Paper</a>
+
+## Evaluation Benchmarks
+* <a href="https://github.com/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark">Indic-KCC Agri-Advisory Benchmark</a> : Open-ended agricultural-advisory question answering in 11 Indian languages including Odia. It has 500 real farmer questions from India's Kisan Call Centre (asked in English and translated into the other 10 languages, so 500 Odia questions), scored 1-5 by an LLM judge against the call-centre agent's reply on correctness, naturalness, groundedness and safety. Released by Sthānika AI. The dataset is gated on <a href="https://huggingface.co/datasets/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark">Hugging Face</a>; the report is <a href="https://sthanika.ai/research/indic-agri-advisory-2026">here</a>.
 
 ## Libraries / Tools 
 * <a href="https://github.com/anoopkunchukuttan/indic_nlp_library">Indic NLP Library</a> : It is a python based NLP library for Indian language text processing including Odia.
